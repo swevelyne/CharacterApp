@@ -1,5 +1,5 @@
 # Contributors
-- Kevin Chang
+- Khloe Chang
 - Seoung-David Nhem
 - Charles Radcliffe
 - Sheckeem Daley
